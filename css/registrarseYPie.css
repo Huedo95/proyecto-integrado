@@ -1,0 +1,133 @@
+#boton-inicio{
+	padding-top:35px;
+	padding-bottom:60px;
+	
+}
+	
+.interior-item1{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.interior-item1 h2 {
+color: #084B8A ;
+font-size: 100px;
+ font-weight: 100;
+}
+.interior-item1 h4 {
+color: #084B8A;
+font-size: 50px;
+ font-weight: 100;
+ 
+}
+#lista{
+		list-style:none;
+	text-align:left;
+	padding-bottom:45px;
+	padding-top:45px;
+		}
+		#lista li{
+		list-style:none;	
+		}
+#bodyText  {
+  margin: auto;
+    width: 100%;
+    padding: 10px;
+	text-align:center;
+	
+}
+#bodyText i {
+	font-size: 25px;
+	
+	
+}
+#bodyText p {
+	font-size:20px;
+	
+}
+
+
+.interior3{
+    width: 100%;
+    background: white;
+    padding: 30px;
+    margin: auto;
+ 
+    text-align: center;
+	}
+
+#F-Enlace{
+	width: 100%;
+	padding: 25px;
+    margin: 10px;
+	float:center;
+	text-align:center;
+}
+#F-Enlace table{
+ border-collapse: collapse;
+    width: 100%;
+	
+}
+#F-Enlace a { 
+	 text-decoration: none;
+	 color:black;
+	 
+}
+#F-Enlace a:hover{
+color:#00BFFF;
+}
+#F-Enlace td {
+  padding: 10px;
+  
+  width:10%;
+}
+
+
+.inter-item3 p {
+    margin-top: 20px;
+}
+
+
+.redSocial {
+	padding: 80px;
+    margin: auto;
+	width:100%;
+	text-align: center;
+	background:black;
+}
+
+#img-logo{
+width:43px;
+float:center;
+}
+#img-logo:hover {
+ background: #eb797b;
+}
+
+.redSocial p {
+color:white;
+}
+.redSocial a {
+color:white;
+text-decoration:none;
+}
+#img-logo-UEM {
+width:20%;
+
+margin:0 auto;
+
+
+}
+
+
+
+.icon-twitter, .icon-facebook {
+   
+	width:120px;
+}
+.icon-youtube{	
+width:115px;}
+
+

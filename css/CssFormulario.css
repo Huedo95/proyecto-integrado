@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+#total {
+	margin-top: 10px;
+    margin-left: 20px;
+    padding: 25px;
+	width:50%;
+
+	
+} 
+#primero {
+    text-align:left;
+
+}
+
+#titulo {
+    text-align:left;
+    padding-top: 20px
+
+}
+#campo{
+    padding-top: 5;
+    padding-bottom: 5;
+    line-height: 30px;
+}
+
+#divLeft{
+    float:left;
+
+}
+
+#divRight{
+    float:right;
+
+}
+#space1{
+    word-spacing: 60px;
+}
+#space2{
+    word-spacing: 90px;
+}
+#space3{
+    word-spacing: 130px;
+}
+#txtred{
+    color = "red";  
+}
